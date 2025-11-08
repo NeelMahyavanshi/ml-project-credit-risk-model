@@ -2,6 +2,10 @@
 
 Welcome to the **Credit Risk Model** repository! This project focuses on building, training, and evaluating a machine learning model to assess the creditworthiness (credit risk) of loan applicants. Our solution leverages modern data science tools and machine learning algorithms to provide accurate risk predictions for financial institutions or lending platforms.
 
+
+## 🌟 Live Demo
+
+Experience ImmigrationGPT in action: **[https://credit-risk-utilization-ml-neel-mahyavanshi.streamlit.app/](https://credit-risk-utilization-ml-neel-mahyavanshi.streamlit.app/)**
 ---
 
 ## Table of Contents
